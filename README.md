@@ -15,5 +15,13 @@ To build a machine learning model which will predict youtube adview count based 
 .Decision Tree Regressor
 .Random Forest Regressor
 
+Input
+![Screenshot (19)](https://user-images.githubusercontent.com/72330535/162132111-c84bf16f-5e48-4f8f-8f53-cca291f0de86.png)
+
+
+Output
+![Screenshot (20)](https://user-images.githubusercontent.com/72330535/162132135-072e6863-ee19-49d2-8b88-3de30a1de653.png)
+
+
 ❤️Owner
 Made with ❤️ by SATTI VIJAY NAGA SRI DHANANJAY REDDY
